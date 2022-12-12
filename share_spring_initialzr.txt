@@ -1,0 +1,1 @@
+https://start.spring.io/#!type=maven-project&language=java&platformVersion=3.0.0&packaging=jar&jvmVersion=17&groupId=av2_4poa_2022&artifactId=designer_pather&name=designer_pather&description=AV2%20projeto%20de%20Padr%C3%B5es%20de%20Projeto%20&packageName=av2_4poa_2022.designer_pather&dependencies=lombok,data-jpa,web,h2
